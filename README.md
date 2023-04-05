@@ -4,7 +4,7 @@ Video editor in python, tkinter and moviepy
 ## Usage
 
 <p align="center">
-  <img alt="issue" src="https://github.com/Josakko/JK_VideoEditor/blob/main/image.png?raw=true" width="650px">
+  <img alt="issue" src="https://github.com/Josakko/JK_VideoEditor/blob/main/image.png?raw=true" width="350px">
 </p>
 
 ## Need Help?
